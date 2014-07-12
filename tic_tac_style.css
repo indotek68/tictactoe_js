@@ -1,0 +1,41 @@
+body{
+	font-family: "Helvetica", serif;
+}
+
+h2{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+
+div{
+	margin: auto;
+}
+
+.container{
+	/*background-color: grey;*/
+	height: 306px;
+	width: 306px;
+}
+
+.square{
+	height:100px;
+	width:100px;
+	border-color: black;
+	/*background-color: blue;*/
+	float: left;
+	border: dashed 1px;
+	font-size: 4em;
+	text-align: center;
+	line-height: 100px;
+
+}
+
+button{
+	position: relative;
+	left: 285px;
+	margin: 2em auto;
+	text-align: center;
+	font-size: 1em;
+}
